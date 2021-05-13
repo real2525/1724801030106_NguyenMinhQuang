@@ -16,3 +16,11 @@ Các chức năng chính:
 
 Giao diện của trang website:
 ![screencapture-localhost-8080-banhang-2021-05-13-03_48_16](https://user-images.githubusercontent.com/46024805/118141921-16474280-b434-11eb-9162-914783fb987b.png)
+![screencapture-localhost-8080-banhang-checkout-2021-05-13-04_04_02](https://user-images.githubusercontent.com/46024805/118143405-7f7b8580-b435-11eb-9037-6013c172f0e1.png)
+![screencapture-localhost-8080-banhang-chi-tiet-san-pham-tao-jazz-new-zealand-2021-05-13-04_02_09](https://user-images.githubusercontent.com/46024805/118143412-830f0c80-b435-11eb-8325-e89d3ac17353.png)
+![screencapture-localhost-8080-banhang-danh-muc-san-pham-trai-cay-nhat-ban-2021-05-13-04_06_08](https://user-images.githubusercontent.com/46024805/118143416-83a7a300-b435-11eb-8623-b1e55e414bc2.png)
+![screencapture-localhost-8080-banhang-login-checkout-2021-05-13-03_49_50](https://user-images.githubusercontent.com/46024805/118143418-84403980-b435-11eb-9b6b-66bb009c7905.png)
+![screencapture-localhost-8080-banhang-register-checkout-2021-05-13-03_52_11](https://user-images.githubusercontent.com/46024805/118143421-84d8d000-b435-11eb-9cf7-89067584439a.png)
+![screencapture-localhost-8080-banhang-tin-tuc-2021-05-13-04_01_05](https://user-images.githubusercontent.com/46024805/118143425-85716680-b435-11eb-979e-44f4bd06d487.png)
+
+
