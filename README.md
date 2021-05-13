@@ -12,5 +12,7 @@ Các chức năng chính:
 	+ Cập nhật sản phẩm, thương hiệu, danh mục. 
 	+ Xử lý đơn hàng của khách hàng đặt.      
 	+ Thống kê doanh thu
+
+
 Giao diện của trang website:
 ![screencapture-localhost-8080-banhang-2021-05-13-03_48_16](https://user-images.githubusercontent.com/46024805/118141921-16474280-b434-11eb-9162-914783fb987b.png)
