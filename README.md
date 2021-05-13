@@ -24,3 +24,22 @@ Giao diện của trang website:
 ![screencapture-localhost-8080-banhang-tin-tuc-2021-05-13-04_01_05](https://user-images.githubusercontent.com/46024805/118143425-85716680-b435-11eb-979e-44f4bd06d487.png)
 
 
+
+
+
+Giao diện quản lý 
+
+
+
+![screencapture-localhost-8080-banhang-dashboard-2021-05-13-07_32_40](https://user-images.githubusercontent.com/46024805/118144256-6f17da80-b436-11eb-8753-e2f0eeb2c2b8.png)
+![screencapture-localhost-8080-banhang-manage-order-2021-05-13-07_44_57](https://user-images.githubusercontent.com/46024805/118144266-72ab6180-b436-11eb-8aa2-d1148c19f860.png)
+![screencapture-localhost-8080-banhang-add-ship-2021-05-13-07_48_34](https://user-images.githubusercontent.com/46024805/118144270-73dc8e80-b436-11eb-9866-a398c2a22b52.png)
+![screencapture-localhost-8080-banhang-all-category-product-2021-05-13-07_36_37](https://user-images.githubusercontent.com/46024805/118144273-74752500-b436-11eb-8456-142abcf5198c.png)
+![screencapture-localhost-8080-banhang-all-coupon-2021-05-13-07_46_34](https://user-images.githubusercontent.com/46024805/118144276-750dbb80-b436-11eb-9e62-354331d1bb3d.png)
+![screencapture-localhost-8080-banhang-all-post-2021-05-13-07_38_29 (1)](https://user-images.githubusercontent.com/46024805/118144280-763ee880-b436-11eb-9281-da10ed490467.png)
+![screencapture-localhost-8080-banhang-all-post-2021-05-13-07_38_29](https://user-images.githubusercontent.com/46024805/118144284-76d77f00-b436-11eb-9adf-183bf481f08b.png)
+![screencapture-localhost-8080-banhang-all-product-2021-05-13-07_34_25](https://user-images.githubusercontent.com/46024805/118144287-77701580-b436-11eb-905c-9d376e876d2c.png)
+![screencapture-localhost-8080-banhang-all-slider-2021-05-13-07_45_48](https://user-images.githubusercontent.com/46024805/118144293-78a14280-b436-11eb-8718-1b8c5c617feb.png)
+
+
+
